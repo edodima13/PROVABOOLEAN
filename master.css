@@ -1,0 +1,81 @@
+body{
+  background-image: url("background.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.background{
+  background:rgba(0, 0, 0, 0.5);
+  border-radius: 10px
+}
+
+.background{
+  margin: 2% 18%
+}
+
+.contenuto{
+  padding: 60px 80px 60px 80px
+}
+
+.logoTM{
+  text-align: center;
+}
+
+img{
+  width: 165px
+}
+
+h1{
+  color: lime;
+  margin: 10px 0px 5px
+}
+
+button{
+  margin: 10px 0px 10px 0px
+}
+
+nav{
+  background-color: lime
+}
+
+.testo{
+  color: white
+}
+
+h2{
+  margin: 10px 0px 5px
+}
+
+p{
+  margin: 0px 0px 0px
+}
+
+.barra1{
+  width: 40%;
+  height: 30px;
+  background-color: orange
+}
+
+.barra1{
+  border-radius: 3px
+}
+
+.barra2{
+  width: 60%;
+  height: 30px;
+  background-color: green
+}
+
+.barra2{
+  border-radius: 3px
+}
+
+.barra3{
+  width: 20%;
+  height: 30px;
+  background-color: violet
+}
+
+.barra3{
+  border-radius: 3px
+}
